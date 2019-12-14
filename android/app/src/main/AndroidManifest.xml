@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.falconiawebviewcapsule">
+  package="org.falconia.webview_capsule">
 
     <uses-permission android:name="android.permission.INTERNET" />
 

@@ -1,4 +1,4 @@
-package com.falconiawebviewcapsule;
+package org.falconia.webview_capsule;
 
 import com.facebook.react.ReactActivity;
 
