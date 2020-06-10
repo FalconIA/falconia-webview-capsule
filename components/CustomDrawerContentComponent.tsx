@@ -42,7 +42,7 @@ const CustomDrawerContentComponent: React.FC<DrawerNavigatorItemsProps & { navig
   } = props;
 
   const [ match, setMatch ] = useState(false);
-  const [ password, setPassword ] = useState();
+  const [ password, setPassword ] = useState<string>();
   const context = useContext(ThemeContext);
 
   const getColor = (color?: string | ThemedColor) => {
