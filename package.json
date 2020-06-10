@@ -20,7 +20,7 @@
     "react-native-reanimated": "^1.4.0",
     "react-native-screens": "^2.8.0",
     "react-native-storage": "^1.0.1",
-    "react-native-webview": "^7.6.0",
+    "react-native-webview": "npm:@falconia/react-native-webview-x5@10.1.0",
     "react-native-webview-invoke": "^0.5.1",
     "react-navigation": "^4.0.10",
     "react-navigation-drawer": "^2.3.3"

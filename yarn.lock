@@ -5235,10 +5235,10 @@ react-native-webview-invoke@^0.5.1:
   resolved "https://registry.npm.taobao.org/react-native-webview-invoke/download/react-native-webview-invoke-0.5.1.tgz#e6c856a350e472b5cc89ce71f566ebce843adc2a"
   integrity sha1-5shWo1DkcrXMic5x9WbrzoQ63Co=
 
-react-native-webview@^7.6.0:
-  version "7.6.0"
-  resolved "https://registry.npm.taobao.org/react-native-webview/download/react-native-webview-7.6.0.tgz#6bae76430200be5e5ead7d986af2fa341b650186"
-  integrity sha1-a652QwIAvl5erX2YavL6NBtlAYY=
+"react-native-webview@npm:@falconia/react-native-webview-x5@10.1.0":
+  version "10.1.0-alpha.43903.0"
+  resolved "https://registry.yarnpkg.com/@falconia/react-native-webview-x5/-/react-native-webview-x5-10.1.0-alpha.43903.0.tgz#0e825a1f4e7aadd3c666ade0b4584a4e0507b1fc"
+  integrity sha512-rFaq5uBVjX0uhityW7R2nBogQb+7A0+p3D8/otFtcu+McLZMU5w2cLKKBWdNpjW8KLWSgJyg7+7E31FaE++Oqw==
   dependencies:
     escape-string-regexp "2.0.0"
     invariant "2.2.4"
